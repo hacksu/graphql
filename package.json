@@ -1,5 +1,5 @@
 {
-  "name": "@cseitz/graphql",
+  "name": "@hacksu/graphql",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cseitz/graphql.git"
+    "url": "git+https://github.com/hacksu/graphql.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cseitz/graphql/issues"
+    "url": "https://github.com/hacksu/graphql/issues"
   },
-  "homepage": "https://github.com/cseitz/graphql#readme",
+  "homepage": "https://github.com/hacksu/graphql#readme",
   "dependencies": {
     "@graphql-codegen/core": "^2.2.0",
     "@graphql-codegen/typescript": "^2.2.4",
